@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Vibracel</name>
+    <name>Vibrabeep</name>
 
     <description>
-        Ejemplo para utilizar Plugins en moviles
+        vibra y hace beep
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
